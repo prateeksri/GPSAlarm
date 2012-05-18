@@ -8,5 +8,11 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/hello" />
+    
+                  <com.google.android.maps.MapView
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent"
+                 android:apiKey="0kXhF0BY8W3oznHt9BWD2asU92MCYXO3qsEvy_w"
+                 />
 
 </LinearLayout>
